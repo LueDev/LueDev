@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Jorge</h1>
-<h3 align="center">A passionate full-stack developer from NYC 🍎</h3>
+<h3 align="center">Flatiron Student for Full-Stack Development based in NYC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luedev&label=Profile%20views&color=0e75b6&style=flat" alt="luedev" /> </p>
 
