@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19862
-Fork on GitHub
-5985
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Luis Jorge</h1>
 <h3 align="center">A passionate full-stack developer from NYC 🍎</h3>
 
