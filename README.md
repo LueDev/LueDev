@@ -9,9 +9,7 @@
 
 - 👨‍💻 Personal Portfolio: [https://papiluee.site/](https://papiluee.site/)
 
-- 💬 Ask me about **React, Typescript, Python, C++**
-
-- 📫 How to reach me **Luis.Jorgexl@gmail.com**
+- 📫 Send me an email at **Luis.Jorgexl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
