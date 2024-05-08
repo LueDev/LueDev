@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Medexams](https://medexams.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://papiluee.site/](https://papiluee.site/)
+- 👨‍💻 Personal Portfolio: [https://papiluee.site/](https://papiluee.site/)
 
 - 💬 Ask me about **React, Typescript, Python, C++**
 
