@@ -9,6 +9,8 @@
 
 - 👨‍💻 Personal Portfolio: [https://papiluee.site/](https://papiluee.site/)
 
+- Resume [Download Resume]([paste-the-raw-url-here](https://github.com/LueDev/Resume/blob/main/Luis%20Jorge%20Software%20Engineer%20Resume.pdf))
+
 - 📫 Send me an email at **Luis.Jorgexl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
