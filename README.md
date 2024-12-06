@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luedev" alt="luedev" /></a> </p>
 
-- 🔭 I’m currently working on [Medexams](https://medexams.onrender.com/)
+- 🔭 I’m currently working on https://github.com/LueDev/MarketAI
 
 - 👨‍💻 Personal Portfolio: [https://papiluee.site/](https://papiluee.site/)
 
